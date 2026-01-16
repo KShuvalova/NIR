@@ -1,0 +1,2 @@
+eligible_users,train_users,val_users,test_users,SEQ_LEN,STRIDE
+274,219,27,28,100,50

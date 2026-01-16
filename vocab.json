@@ -1,0 +1,8 @@
+{
+  "Q_VOCAB": 11746,
+  "ANS_VOCAB": 6,
+  "EL_VOCAB": 8,
+  "DL_VOCAB": 7,
+  "qid_to_idx_size": 11745,
+  "note": "qid_to_idx built from TRAIN qids only; 0 is UNK/PAD"
+}
